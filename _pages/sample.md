@@ -4,6 +4,6 @@ permalink: /page_sample/
 layout: single
 ---
 
-##Page 게시물 연습
+## Page 게시물 연습
 
 Page 게시물을 연습하기 위한 게시물이다.
