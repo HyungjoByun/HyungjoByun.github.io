@@ -1,7 +1,7 @@
 ---
 title: "page 셈플"
 permalink: /page_sample/
-layout: single
+layout: archive
 ---
 
 ## Page 게시물 연습
