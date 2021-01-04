@@ -2,5 +2,5 @@
 title: "Posts by Category"
 layout: categories
 permalink: /categories/
-author_profile: ture
+author_profile: true
 ---
