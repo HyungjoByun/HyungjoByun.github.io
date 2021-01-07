@@ -11,5 +11,5 @@ _ _ _
 
 * **Name**: HyungJo Byun  
 * **English Name**: Matthew
-* **Education**: University of Seoul, Bachelor of electrical and computer engineering(Curently attending)  
+* **Education**: University of Seoul, college of electrical and computer engineering(Curently attending)  
 * **Interest**: Artificial Intelligence
