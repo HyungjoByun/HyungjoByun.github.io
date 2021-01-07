@@ -1,9 +1,15 @@
 ---
-title: "page 셈플"
-permalink: /about/
+title: "Profile"
+permalink: /profile/
 layout: single
 ---
+## Profile
 
-## Page 게시물 연습
-
-Page 게시물을 연습하기 위한 게시물이다.
+* 이름: 변형조  
+* 학력: 서울시립대학교 전자전기컴퓨터공학부 (재학중)  
+* 관심 분야: 인공지능
+* * *
+* Name: HyungJo Byun  
+* English Name: Matthew
+* Education: University of Seoul Bachelor of electrical and computer engineering(Curently attending)  
+* Interest: Artificial Intelligence

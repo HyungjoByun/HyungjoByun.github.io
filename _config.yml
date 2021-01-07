@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jo's Blog"
+title                    : "Forte LAB"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "HyungJo Byun"
@@ -93,10 +93,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "HyungJo Byun"
+  name             : "HyungJo Byun(Matthew)"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Let's **Do** This*!*"
-  location         : "EveryWhere"
+  bio              : "Make Something Creative"
+  location         : "Seoul,South Korea"
   email            : "hjomatthew9@gmail.com"
   links:
     - label: "Email"
