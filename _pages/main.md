@@ -1,6 +1,0 @@
----
-title: "Main"
-permalink: /main/
----
-
-메인 페이지 입니다.

@@ -93,7 +93,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "HyungJo Byun(Matthew)"
+  name             : "HyungJo Byun<br>(Matthew)"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Make Something Creative"
   location         : "Seoul,South Korea"
