@@ -1,6 +1,5 @@
 ---
 title: "First post"
-
 categories:
  - Others
 tags:
