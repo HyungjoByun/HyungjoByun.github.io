@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Forte LAB"
+title                    : "Forte"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "HyungJo Byun"
-description              : "An amazing website."
+description              : ""
 url                      : "https://hyungjobyun.github.io/"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -94,8 +94,8 @@ analytics:
 # Site Author
 author:
   name             : "HyungJo Byun<br>(Matthew)"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Make Something Creative"
+  avatar           : "/assets/images/profile.jpg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Want to be an expert in Computer Science"
   location         : "Seoul,South Korea"
   email            : "hjomatthew9@gmail.com"
   links:
@@ -280,3 +280,4 @@ defaults:
       share: true
       related: true
       show_date: true
+
