@@ -1,5 +1,0 @@
-_sass\minimal-mistakes\_masthead.scss에 
-site-title부분 수정
-
-_sass\minimal-mistakes\_variables.scss에
-$right-sidebar-width-narrow등 100px정도씩 줄임
