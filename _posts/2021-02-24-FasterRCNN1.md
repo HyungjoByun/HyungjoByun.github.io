@@ -189,7 +189,7 @@ This solution is easy to implement. But this solution ignores the derivative w.r
 
 1편의 내용은 여기까지 입니다. 다음 포스트에는 현재까지 나온 정보를 이용하여 작성한 코드를 설명하겠습니다. 오류나 질문 있으면 자유롭게 댓글 달아주세요.
 
-## 참고 문헌
+## References
 Faster R-CNN논문: <https://arxiv.org/abs/1506.01497>
 
 Fast R-CNN논문: <https://arxiv.org/abs/1504.08083>  

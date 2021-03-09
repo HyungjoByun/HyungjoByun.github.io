@@ -383,9 +383,18 @@ targets[0]['labels'].squeeze_(0)
 ```
 그리고 term마다 Check point를 저장했고 10epoch마다 모델의 parameter만 따로 저장했습니다.
 
-이제 전체를 실행시키면 학습이 진행 됩니다. 결과는 다음 게시물에 포스팅 하겠습니다.
+이제 전체를 실행시키면 학습이 진행 됩니다. 결과는 다음 게시물에 포스팅 하겠습니다. 오류나 질문 있으면 자유롭게 댓글 달아주세요.
 
 전체 소스코드: <https://github.com/HyungjoByun/Projects/blob/main/Faster%20RCNN/FasterRCNN_Train.ipynb>
+
+## References
+Faster R-CNN논문: <https://arxiv.org/abs/1506.01497>
+
+Fast R-CNN논문: <https://arxiv.org/abs/1504.08083>  
+
+R-CNN논문: <https://arxiv.org/abs/1311.2524>  
+
+참고한 블로그: <https://medium.com/@fractaldle/guide-to-build-faster-rcnn-in-pytorch-95b10c273439>  
 
 
 
