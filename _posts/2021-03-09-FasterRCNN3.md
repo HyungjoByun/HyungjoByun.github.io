@@ -321,6 +321,8 @@ Object detection분야는 처음 해본 프로젝트라 새로운 것을 많이 
 만들어 보거나 Object Segmentation에 관련해서 알아보고 싶습니다. 아니면 주제를 바꿔 자연어 처리 모델을 알아보는것도 흥미로울 것 같습니다.
 긴 글 관심가지고 읽어주셔서 감사합니다. 오류나 질문 있으면 자유롭게 댓글 달아주세요.
 
+전체 코드: <https://github.com/HyungjoByun/Projects/blob/main/Faster%20RCNN/Faster_RCNN_Test.ipynb>
+
 ## References
 Faster R-CNN논문: <https://arxiv.org/abs/1506.01497>
 

@@ -385,7 +385,7 @@ targets[0]['labels'].squeeze_(0)
 
 이제 전체를 실행시키면 학습이 진행 됩니다. 결과는 다음 게시물에 포스팅 하겠습니다. 오류나 질문 있으면 자유롭게 댓글 달아주세요.
 
-전체 소스코드: <https://github.com/HyungjoByun/Projects/blob/main/Faster%20RCNN/FasterRCNN_Train.ipynb>
+전체 코드: <https://github.com/HyungjoByun/Projects/blob/main/Faster%20RCNN/FasterRCNN_Train.ipynb>
 
 ## References
 Faster R-CNN논문: <https://arxiv.org/abs/1506.01497>
