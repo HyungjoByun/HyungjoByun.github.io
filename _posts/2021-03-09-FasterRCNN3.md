@@ -74,7 +74,8 @@ if not os.path.isfile("/content/voc_test_2007_tar"):
   !cp "/content/drive/MyDrive/Faster_RCNN/VOCtest_06-Nov-2007.tar" "/content/voc_test_2007_tar" 
   ! tar -xf "/content/voc_test_2007_tar"
 ```
-Dataset을 복사합니다. PASCAL VOC 2007을 사용하였습니다.
+Dataset을 복사합니다. PASCAL VOC 2007을 사용하였습니다.  
+코드를 실행하기 위해서는 사전에 dataset을 google drive에 저장해 두어야 하고 적절한 경로로 수정 해 주어야 합니다.
 ```python
 def xml_parser(xml_path):
   xml_path = xml_path

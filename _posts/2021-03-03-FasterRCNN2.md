@@ -101,9 +101,8 @@ if not os.path.isfile("/content/voc_train_val2012_tar"):
   !cp "/content/drive/MyDrive/Faster_RCNN/VOCtrainval_11-May-2012.tar" "/content/voc_train_val2012_tar" 
   ! tar -xf "/content/voc_train_val2012_tar"
 ```
-
-Google drive에 있는 dataset tar파일을 google colab런타임 저장소에 복사하여 압축을 푸는 코드입니다. cp는 복사, tar -xf는 압축 풀기입니다.
-
+Google drive에 있는 dataset tar파일을 google colab런타임 저장소에 복사하여 압축을 푸는 코드입니다. cp는 복사, tar -xf는 압축 풀기입니다.  
+코드를 실행하기 위해서는 사전에 dataset을 google drive에 저장해 두어야 하고 적절한 경로로 수정 해 주어야 합니다.
 ```python
 def xml_parser(xml_path):
   xml_path = xml_path
