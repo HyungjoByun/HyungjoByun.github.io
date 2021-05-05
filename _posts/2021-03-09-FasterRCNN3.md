@@ -12,8 +12,8 @@ toc_sticky: true
 ---
 ## 이전 게시물
 
-1편: <https://hyungjobyun.github.io/machinelearning/FasterRCNN1/>  
-2편: <https://hyungjobyun.github.io/machinelearning/FasterRCNN2/>  
+1편: [TorchVision을 사용한 Faster R-CNN(1)](https://hyungjobyun.github.io/machinelearning/FasterRCNN1/)  
+2편: [TorchVision을 사용한 Faster R-CNN(2)](https://hyungjobyun.github.io/machinelearning/FasterRCNN2/)  
 
 ## 모델 평가
 이번 포스팅에서는 이전까지 만들었던 Faster R-CNN의 성능을 평가 해 보도록 하겠습니다.

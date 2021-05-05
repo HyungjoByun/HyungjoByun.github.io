@@ -11,7 +11,7 @@ toc: true
 toc_sticky: true
 ---
 ## 이전 게시물 point
-이전 게시물: <https://hyungjobyun.github.io/machinelearning/FasterRCNN1/>
+이전 게시물: [TorchVision을 사용한 Faster R-CNN(1)](https://hyungjobyun.github.io/machinelearning/FasterRCNN1/)
 * backbone: VGG16
 * Dataset: Pascal Voc
 
