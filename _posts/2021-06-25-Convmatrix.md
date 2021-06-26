@@ -17,7 +17,7 @@ Padding과 dilation이 없는 가장 기본적인 연산입니다.
 
 ## 출력의 크기  
 Convolution연산의 출력 크기는 다음과 같은 공식으로 구할 수 있습니다.  
-![output_size](\assets\images\conv_mat\output_size.JPG)  
+![output_size](\assets\images\conv_mat\output_size.jpg)  
 이 때 I = 입력 행렬 크기, K = 필터 크기, P = padding, S = stride 입니다.  
 
 ## 전체 과정
@@ -26,8 +26,8 @@ Convolution연산의 출력 크기는 다음과 같은 공식으로 구할 수 �
 다음은 filter를 기반으로 convolution연산을 하는 방식대로 convolution matrix가 생성됩니다. 
 마지막으로 convolution matrix와 flatten vector를 행렬 곱셈을 하여 결과 vector를 출력합니다. 이 때 결과를 다시 행렬 형태로 바꿔 줍니다.
 예시로 사용할 행렬은 그림1과 같습니다.
-Input: ![Pic1_1](\assets\images\conv_mat\pic1_1.JPG)  
-Filter: ![Pic1_2](\assets\images\conv_mat\pic1_2.JPG)  
+Input: ![Pic1_1](\assets\images\conv_mat\pic1_1.jpg)  
+Filter: ![Pic1_2](\assets\images\conv_mat\pic1_2.jpg)  
 *<font size = 3pt>그림 1 </font>*
 
 ```c
@@ -82,7 +82,7 @@ Convolution matrix에서 n번째 행은 filter가 n번 움직였을 때 계산 �
 
 Convolution matrix를 만들기 위한 방법으로 제가 사용한 방법은 다음과 같습니다. 
 1. 그림2와 같이 input위에 n번째 convolution을 위한 filter를 위치시킵니다. 그림2의 경우 n=1입니다.  
-![Pic2](\assets\images\conv_mat\pic2.JPG)  
+![Pic2](\assets\images\conv_mat\pic2.jpg)  
 *<font size = 3pt>그림 2 </font>*
 
 2. input행렬의 0행 0열부터 차례대로 지나가며 filter와 겹치지 않는 영역이면 0을, 겹치는 영역이면 해당 부분의 filter값을 convolution matrix에 적어 넣습니다. 
@@ -109,7 +109,7 @@ if문은 input위에서 이동하며 보는 index가 filter의 범위에 있는�
 해당하는 값을 Convolution matrix에 넣는데 n번째 이동이므로 n행이고, 몇 번째 반복을 했는지 알기 위해 WI*i+j를 계산하여 알맞은 열에 값을 저장합니다.
 
 결과:  
-![Conv_mat](\assets\images\conv_mat\Conv_mat.JPG)  
+![Conv_mat](\assets\images\conv_mat\Conv_mat.jpg)  
 
 ## Result
 
@@ -126,7 +126,7 @@ for (int i=0; i<(1 +((HI - HF) / STRIDE))*(1 +((WI - WF) / STRIDE)); i++){
 }
 ```  
 ## 전체 출력  
-![Final_print](\assets\images\conv_mat\Final_print.JPG)
+![Final_print](\assets\images\conv_mat\Final_print.jpg)
 
 ## 전체 코드  
 ```c
