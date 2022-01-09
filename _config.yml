@@ -93,9 +93,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "HyungJo Byun<br>(Matthew)"
+  name             : "HyungJo Byun<br>Matthew"
   avatar           : "/assets/images/profile.jpg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I'm a student studying Computer Science"
+  bio              : "Let's make something cool!"
   location         : "Seoul,South Korea"
   email            : "hjomatthew9@gmail.com"
   links:
