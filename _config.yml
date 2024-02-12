@@ -93,15 +93,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "HyungJo Byun<br>Matthew"
+  name             : "HyungJo Byun"
   avatar           : "/assets/images/profile.jpg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Let's make something cool!"
   location         : "Seoul,South Korea"
-  email            : "hjomatthew9@gmail.com"
+  email            : "hjobyun@snu.ac.kr"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "hjomatthew9@gmail.com"
+      # url: "hjobyun@snu.ac.kr"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
