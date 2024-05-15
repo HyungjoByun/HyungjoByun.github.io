@@ -4,6 +4,7 @@ permalink: /profile/
 layout: single
 author_profile: true
 ---
+#
 * **이름**: 변형조  
 * **학력**:
   서울대학교 전기정보공학부 석박통합과정 재학중 (2023~)
