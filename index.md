@@ -1,4 +1,4 @@
 ---
 layout: null
-redirect_to: "/profile/"
+redirect_to: "https://hyungjobyun.github.io/profile/"
 ---
