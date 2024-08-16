@@ -2,6 +2,7 @@
 title: "Profile"
 layout: single
 author_profile: true
+published: false
 ---
 * **이름**: 변형조  
 * **학력**:
