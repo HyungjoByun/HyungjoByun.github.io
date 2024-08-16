@@ -1,4 +1,4 @@
 ---
 layout: null
-redirect_to: "/pages/profile.md"
+redirect_to: "/_pages/profile.md"
 ---
