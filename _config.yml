@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "HyungJo Byun"
   avatar           : "/assets/images/profile.jpg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Let's make something cool!"
+  bio              : #"Let's make something cool!"
   location         : "Seoul,South Korea"
   email            : "hjobyun@snu.ac.kr"
   links:
