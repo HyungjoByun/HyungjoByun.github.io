@@ -1,10 +1,10 @@
 ---
-tagline: "공부와 공유를 위한 블로그<br>Blog for study and sharing."
+tagline: 
 layout: home
 permalink: /
 author_profile: true
-title: Forte
+title: Hyungjo Byun
 header:
     overlay_image: /assets/images/cover.jpg
-    caption: "Photo : **HyungJo Byun**"
+    caption: 
 ---
